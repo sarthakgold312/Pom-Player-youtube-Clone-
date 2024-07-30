@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
 
-![Screen Recording 2024-07-31 045424](https://github.com/user-attachments/assets/4c0f0dfa-9b47-41c4-acc4-7b74d0e75ba7)
 
 
 
